@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo principal a prática de programação orientada a objetos. A calculadora implementada neste projeto é um exemplo de como aplicar os conceitos fundamentais desse paradigma de programação.
 
-A calculadora foi desenvolvida utilizando a linguagem de programação (coloque aqui a linguagem utilizada), e seu código fonte está disponível no [repositório do GitHub](https://leonardo-l-cunha.github.io/Calculadora-orientada-a-objeto/).
+A calculadora foi desenvolvida utilizando JavaScript, e seu código fonte está disponível no [repositório do GitHub](https://leonardo-l-cunha.github.io/Calculadora-orientada-a-objeto/).
 
 ## Funcionalidades
 
