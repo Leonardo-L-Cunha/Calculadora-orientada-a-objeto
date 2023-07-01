@@ -9,7 +9,7 @@ A calculadora foi desenvolvida utilizando JavaScript, e seu código fonte está 
 A calculadora orientada a objeto possui as seguintes funcionalidades:
 
 - Operações matemáticas básicas (adição, subtração, multiplicação e divisão)
-- Operações avançadas (exponenciação, radiciação)
+- Operações avançadas (exponenciação)
 - Memória para armazenar valores intermediários
 - Interface de usuário amigável
 
@@ -38,4 +38,4 @@ Agradeço a todos os desenvolvedores que contribuíram para a criação deste pr
 
 ---
 
-_**Observação:**_ Este arquivo foi escrito utilizando a sintaxe Markdown para facilitar a leitura e formatação. Para visualizar corretamente, é recomendado utilizar um visualizador de Markdown ou abrir o arquivo em um editor que suporte a sintaxe.
+
