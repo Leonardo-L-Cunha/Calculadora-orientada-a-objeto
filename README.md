@@ -1,1 +1,28 @@
-# Calculadora-orientada-a-objeto
+Calculadora Orientada a Objeto
+Este projeto tem como objetivo principal a prática de programação orientada a objetos. A calculadora implementada neste projeto é um exemplo de como aplicar os conceitos fundamentais desse paradigma de programação.
+
+A calculadora foi desenvolvida utilizando a linguagem de programação (coloque aqui a linguagem utilizada), e seu código fonte está disponível no repositório do GitHub.
+
+Funcionalidades
+A calculadora orientada a objeto possui as seguintes funcionalidades:
+
+Operações matemáticas básicas (adição, subtração, multiplicação e divisão)
+Operações avançadas (exponenciação, radiciação)
+Memória para armazenar valores intermediários
+Interface de usuário amigável
+Como utilizar
+Faça o clone do repositório ou baixe o código fonte.
+Abra o arquivo index.html em seu navegador.
+Utilize os botões da calculadora para realizar as operações desejadas.
+Verifique os resultados no visor da calculadora.
+Contribuição
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para enviar um pull request no repositório do projeto.
+
+Licença
+Este projeto está licenciado sob a MIT License. Você é livre para utilizar, modificar e distribuir este código conforme os termos da licença.
+
+Contato
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através do meu perfil do GitHub.
+
+Agradecimentos
+Agradeço a todos os desenvolvedores que contribuíram para a criação deste projeto e tornaram possível a prática de programação orientada a objetos
